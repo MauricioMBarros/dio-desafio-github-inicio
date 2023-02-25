@@ -1,2 +1,2 @@
-# dio-desafio-github-inicio
-Primeiro repositório para desafio de porojeto github na DIO
+# DIO primeiro repositório criado para desafio de projeto git/github
+Primeiro repositório para desafio de projeto github na DIO
